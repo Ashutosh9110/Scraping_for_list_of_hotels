@@ -1,0 +1,15 @@
+{
+  "type": "service_account",
+  "project_id": "gspreadhotelscraper",
+  "private_key_id": "yourAPIkey",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJrSKhZ45y/QeJ\nsInudcZ8LplElDpAZQeptjxzMUtNiQF/+eVuAiBWe9feHjwlsIc8WKaVWifhV/uw\nqLTYlGnL2ImMw2akh0A3DTLsSuQoRNZmNC88P+L4KkNm29VYSvsyiLbRJpOUFrO1\nrp02HcO073iYdX6AFZ9rcuvt0CyEvr3G9oiusKvFa20H8RmqCrCl1AU1Rez0i2nt\ngodSsqOV8YHF0shjepeZabduMFJAGiKKAAbndVDieVXwuA2kY34+0UloUqnUS0Hi\nHVvXL8f4D8kNp7kDoXZqGiAq0CpR0q5tGA3fNaSPCGrQjKsQ8elLShKd7kxBXHiC\ntDdSxUVpAgMBAAECggEAEcwHhvrJJU3oQQxP1Q1A9hXJTLX6lf1/DvOX+LUG53wJ\nooN+Quuecu38Kgu8/w50QK0KC5qoc52nW6WSSp0o4OY7l9e+fRJlEPacjHbnahj5\nBTfhsI1quBTysbxV4rQV4BW/HEyChXT4vYr/20CxKTcLYK4tpZvtijaFVLfO1eqJ\nrXsCnYRz+le4QA/BW8CllOFMNldsvwcPHIxXpCMer8Kh2B2cuLJ7UFCy9rvXeQpm\nptfvmFMjH4rdVZqvcl74FdKYXRnh3jygyz5AI5VO+0z1ECrcZLEEUH18l7DLz8gQ\naev3VLJkDgTf1Cb+nVq3z1/6PSx0BRDPiKI/CiWSqQKBgQDs5Qt1jylazZfP/h9N\n+EVbDDqfRfRxbv72V/t7qAGrJs1JJsJ5Uf6Mm+QF1znBZwbUnZuk/zK+MtCBa3dv\n+Ro5WJnEh2ZDobS+IGvXyxgxoC/29DuyHiM5Ptpc5VOvERTAxK3ehR9z6zgFIvw+\nUBZQl//2Ytouunm/uwAqUT+SPwKBgQDZ8Per2BEfCALzbI9dWTX5bnIwoEbep9GH\nSOJuD8nmRqd/4nWUdlsUZfU2+Iv+6TkXRlAW8Kri1cHvFp5DjrtGooUm33dv9c4B\nzMXB7+841A4xx73N2ADskbeGmwiWfqFLgCVuFyuNMeS8gp67lr83GzvBhluQwW0o\nFlPzbszuVwKBgQC1/OPHxVqEyorFG7ma4Y8Oeh+S+l/mwNmYEFE/VvspK97rQp6G\nK0p9ZMlQ/138SRTDQ+0tXWvzGAB8XD3eRKUzxvAiPc5/SHwcz7Vpizmj7ibK9ifi\nFysCMFn6oaafSGUEDlRwLR7To7FeqNjVWhs6gPr/okNxQIqFk7h1ygMnawKBgGRW\n4eB3OOK9kIY8PAExWn09UUt770UBpKEReFZN5Jmle+aP/6xblXFdw7kMU4AIJmXF\n1IfLRBHtcj0+f50A8M4DcyRDjDy6wZ7ohT/V1KCoWOSoXoWP5lUEfad2Z0zKfj5B\ngHogJsf56aK0zJn3PJAFdMyTrEKIG1ZyeTJBmA4/AoGBAMslY7DdCk2egKImnZpK\n9q3N1eQaWRNPwMGnRNQ0S9MWTC8tYYViLY5ghSM/6buJ88zElV4Yer7hK2HiyTpb\nNCUztFzK496wrcRtPVuY1AYRbJsyVHQ1KaNToEChM4hleYXNDQ2dvjzsCR+R7258\nJdX0dqfgQSiiwwuuSXJ1yWHy\n-----END PRIVATE KEY-----\n",
+  "client_email": "gspreadhotelscraper@gspreadhotelscraper.iam.gserviceaccount.com",
+  "client_id": "100388033137975781766",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gspreadhotelscraper%40gspreadhotelscraper.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
+
